@@ -1,16 +1,12 @@
-## Hi there 👋
+## RunCode 👋
 
-We at RunCode providing oneclick pre-configured online developer workspaces.
+Oneclick pre-configured online developer workspaces boosting productivity of software development.
 
-Try it out and give us feedback
+We are comitted to make software development easy for everyone.
 
-<!--
+1. Browser based coding.
+2. Collaborative coding.
+3. Secure online software development.
+4. Affordable.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Try [RunCode.io](https://runcode.io) and give us feedback
